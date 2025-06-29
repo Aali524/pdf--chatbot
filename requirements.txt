@@ -6,3 +6,8 @@ google-generativeai
 langchain
 langchain-google-genai
 faiss-cpu
+fastapi
+uvicorn
+jinja2
+python-multipart
+pymupdf
